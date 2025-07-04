@@ -1,4 +1,4 @@
-# 🎓 Student Performance Regression
+# 🎓 Student Performance Regression with Linear Model
 
 This project uses linear regression to predict students' **math scores** based on features like reading & writing scores, gender, lunch type, and more. It's a full pipeline from data cleaning to model evaluation.
 
